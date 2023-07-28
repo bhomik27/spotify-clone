@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A Spotify clone project",
   "scripts": {
-    "build": "echo \"No build specified\" && exit 1",
+   "build": "webpack --mode production",
     "test": "echo \"No test specified\" && exit 1",
     "start": "node index.js"
   },
