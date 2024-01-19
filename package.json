@@ -1,20 +1,19 @@
 {
-  "name": "spotify-clone",
+  "name": "spotify_clone",
   "version": "1.0.0",
-  "description": "A Spotify clone project",
+  "main": "index.html",
   "scripts": {
-   "build": "webpack --mode production",
-    "test": "echo \"No test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bhomik27/spotify-clone.git"
   },
-  "author": "Your Name",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/bhomik27/spotify-clone/issues"
   },
-  "homepage": "https://github.com/bhomik27/spotify-clone#readme"
+  "homepage": "https://github.com/bhomik27/spotify-clone#readme",
+  "description": ""
 }
